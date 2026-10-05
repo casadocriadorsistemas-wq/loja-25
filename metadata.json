@@ -1,0 +1,6 @@
+{
+  "name": "Pet & Ração Delivery",
+  "description": "Catálogo online de rações por saco, kg ou valor em R$ com pedidos via WhatsApp e gestão de estoque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
